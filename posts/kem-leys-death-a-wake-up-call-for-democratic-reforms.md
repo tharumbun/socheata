@@ -1,5 +1,5 @@
 ---
-title: Kem Ley Death A Wake Up Call for Democratic Reforms
+title: The Death of Kem Ley Is A Wake Up Call for Democratic Reforms
 description: I feel humbled and proud to be one of over a million citizens to have attended Mr. Kem Ley’s historic funeral procession
 date: 2016-08-07
 tags:
