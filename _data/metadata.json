@@ -1,8 +1,8 @@
 {
-  "title": "Your Blog Name",
+  "title": "Socheata Vong",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "My thoughts about beloved Cambodia",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
@@ -14,7 +14,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Socheata Vong",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
   }
