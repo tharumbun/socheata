@@ -1,5 +1,5 @@
 ---
-title: Yuon: What is in a xenonym?
+title: Yuon: What is in a xenonym
 description: 
 date: 2010-02-14
 tags:
